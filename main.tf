@@ -9,4 +9,4 @@ terraform {
 
 provider "aws" {
   region = var.project_region
-}
+} # comentando esse trecho do código
